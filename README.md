@@ -1,6 +1,8 @@
 # ALX2.0
 
-What it does
+# What it does
+
+
 ALX2.0 is a small utility that automates two Fortnite mechanics:
 
 Drag Macro — hold your edit bind, the macro holds LMB for you. Release edit, LMB releases. Tap a pause key mid-hold to reset the selection without letting go of edit.
