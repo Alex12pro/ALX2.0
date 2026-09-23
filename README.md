@@ -1,4 +1,5 @@
 # ALX2.0
+A Fortnite macro system made by Alex
 
 # What it does
 
